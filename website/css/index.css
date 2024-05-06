@@ -1,0 +1,31 @@
+.index-container {
+    background-color: #FBF3D5;
+    font-size: 20px;
+}
+
+body {
+    background-color: #EFBC9B;
+    color: black;
+    text-align: center;
+}
+
+.home {
+    background-color: #FFEBB2;
+    font-style: italic;
+    font-size: 40px;
+    padding: 10px;
+    color: red;
+    border: 4px solid whitesmoke;
+    text-align: center;
+}
+.about {
+    color: black;
+}
+
+.projects {
+    color: black;
+}
+
+.socials {
+    color: black;
+}
